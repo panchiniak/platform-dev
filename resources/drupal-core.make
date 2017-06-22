@@ -55,3 +55,7 @@ projects[drupal][patch][] = https://www.drupal.org/files/issues/drupal-doc-theme
 ; https://www.drupal.org/node/980144#comment-11695545 
 ; https://webgate.ec.europa.eu/CITnet/jira/browse/NEPT-224
 projects[drupal][patch][] = https://www.drupal.org/files/issues/980144-98_0.patch
+
+; Apply NEPT-1185 patch.
+; https://webgate.ec.europa.eu/CITnet/jira/browse/NEPT-1185
+projects[drupal][patch][] = patches/nept-1185-master.patch
