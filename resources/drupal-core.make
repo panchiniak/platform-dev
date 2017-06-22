@@ -48,3 +48,7 @@ projects[drupal][patch][] = https://www.drupal.org/files/issues/drupal_add_js_sa
 ; https://www.drupal.org/node/980144#comment-9957753
 ; https://webgate.ec.europa.eu/CITnet/jira/browse/NEXTEUROPA-12553
 projects[drupal][patch][] = https://www.drupal.org/files/issues/d7-issues_with_required-980144-76.patch
+
+; Apply NEPT-1185 patch.
+; https://webgate.ec.europa.eu/CITnet/jira/browse/NEPT-1185
+projects[drupal][patch][] = patches/nept-1185-2.2.175.patch
